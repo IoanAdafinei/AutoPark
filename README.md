@@ -14,4 +14,6 @@ typedef struct Masina
     int pretVanzare;
 }Masina;
 
-Here are the full list of limitation: https://ocw.cs.pub.ro/courses/sda-ab/tema0
+Here is the full list of limitation: https://ocw.cs.pub.ro/courses/sda-ab/tema0
+
+It has some memory problems which i did not manage to resolve since it works sometimes and breaks other times regardless of input.
